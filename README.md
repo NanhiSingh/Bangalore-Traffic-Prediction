@@ -7,6 +7,20 @@ Bangalore faces severe traffic congestion from rapid urban growth, causing delay
 
 Bangalore-Traffic-Dataset : https://www.kaggle.com/datasets/preethamgouda/banglore-city-traffic-dataset
 
+## Libraries Used
+
+- Pandas : Used for data manipulation and analysis, especially with structured data in DataFrames.
+- numpy : Provides support for efficient numerical operations on large, multi-dimensional arrays and matrices.
+- LabelEncoder : Encodes categorical labels into numerical format for machine learning models.
+- Matplotlib : A plotting library for creating static, animated, and interactive visualizations in Python.
+- Seaborn : An extension of Matplotlib for statistical data visualization with improved aesthetics.
+- StandardScaler : Scales features to have a mean of 0 and a standard deviation of 1, aiding in model convergence.
+- Sklearn : Provides algorithms for data mining and analysis
+- Requests : A library for sending HTTP requests, used to interact with APIs and fetch data from web sources.
+- Folium : Creates interactive maps by leveraging the Leaflet JavaScript library, ideal for geographic data visualization.
+- Nominatim : A geocoding tool that converts addresses into geographic coordinates and vice versa.
+- Polyline : Encodes and decodes geographic paths, often used in mapping and route visualization.
+
 ## Refine the data
 
 The following operations have been performed on the dataset : 
