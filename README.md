@@ -47,5 +47,7 @@ Before feeding teh data to any model for training, we will do the folling pre-pr
 ## Aesthetics
 
 For look and feel the user is provided with the inputs to select the start and the end points and show the congestion level on map.
+
 ![WhatsApp Image 2025-08-14 at 17 01 03](https://github.com/user-attachments/assets/b586870e-580c-4dfc-adb1-ec2d6478ca95)
+
 ![WhatsApp Image 2025-08-14 at 17 01 03 (1)](https://github.com/user-attachments/assets/bb46e5f6-d89f-422f-a4c5-62658f22a20a)
